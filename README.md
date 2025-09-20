@@ -71,4 +71,5 @@ Goal of the Dashboard:
    Identify the key motivators (scholarships, jobs, stability) behind migration. Use these insights to design supportive policies that attract and retain              international talent
 
  6. Screenshot
+    ]Dashboard preview].()
 
