@@ -70,5 +70,6 @@ Goal of the Dashboard:
    Identify the key motivators (scholarships, jobs, stability) behind migration. Use these insights to design supportive policies that attract and retain              international talent
 
  6. Screenshot
-    ]Dashboard preview].(https://github.com/nikhitha-analytics/Student-Migration-Analytics-Dashboard/blob/main/GLOBAL%20ACCADEMIC%20MIGRATION%20DASHBOARD%20OVERVIEW.png)
+    ![Dashboard Preview](https://github.com/nikhitha-analytics/Student-Migration-Analytics-Dashboard/blob/main/GLOBAL%20ACCADEMIC%20MIGRATION%20DASHBOARD%20OVERVIEW.png?raw=true)
+  Dashboard/blob/main/GLOBAL%20ACCADEMIC%20MIGRATION%20DASHBOARD%20OVERVIEW.png)
 
