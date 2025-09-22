@@ -1,6 +1,6 @@
  # Global Academic Migration Dashboard  (Interactive Dashboard Creation using MS Excel)
 
-1. 🌎 🎓 ## Global Academic Migration Dashboard:
+1. 🌎 🎓 # # Global Academic Migration Dashboard:
    
    An interactive dashboard analyzing global student migration trends, top destinations, fields of study, and career outcomes
 
