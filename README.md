@@ -9,7 +9,7 @@
  A dynamic Excel dashboard showcasing global student migration trends.Highlights top destinations, fields of study, placement success, scholarships, salaries, and enrollment drivers.Enables users to explore        data, spot patterns, and compare metrics across regions.Supports students, universities, and policymakers in making informed decisions.Guides education choices, recruitment strategies, and international          education policies.Demonstrates skills in data analysis, visualization, and translating insights into action.
 
 
-3.Tech Stack
+3. ### Tech Stack
 
 Technologies and features used to build the dashboard:
 
@@ -20,11 +20,11 @@ Technologies and features used to build the dashboard:
 • 🎛️ Slicers – Interactive filtering and drill-down exploration.
 
 
-4. Data Source
+4. ### Data Source
 
 📥 Kaggle – Global Academic Migration Dataset
 
-5. Features
+5. ### Features
 
 Business Problem:
 Many universities, policy makers, and recruiters struggle to understand global student migration trends — where students move, what they study, and how it impacts employability. Without data, it’s hard to allocate resources, plan scholarships, or forecast graduate outcomes.
@@ -99,7 +99,7 @@ Goal of the Dashboard:
  
    Identify the key motivators (scholarships, jobs, stability) behind migration. Use these insights to design supportive policies that attract and retain              international talent
 
- 6. Screenshot
+ 6. ### Screenshot
     ![Dashboard Preview](https://github.com/nikhitha-analytics/Student-Migration-Analytics-Dashboard/blob/main/GLOBAL%20ACCADEMIC%20MIGRATION%20DASHBOARD%20OVERVIEW.png?raw=true)
   Dashboard/blob/main/GLOBAL%20ACCADEMIC%20MIGRATION%20DASHBOARD%20OVERVIEW.png)
 
