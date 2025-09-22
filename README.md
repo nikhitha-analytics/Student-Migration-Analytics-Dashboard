@@ -1,4 +1,4 @@
-# Global Academic Migration Dashboard
+** Global Academic Migration Dashboard**
 (Interactive Dashboard Creation using MS Excel)
 
 1. 🌎 🎓 ## Global Academic Migration Dashboard:
