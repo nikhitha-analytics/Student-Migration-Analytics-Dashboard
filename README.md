@@ -13,7 +13,9 @@ A dynamic Excel dashboard showcasing global student migration trends.Highlights 
 
 Technologies and features used to build the dashboard:
 • 💻 Excel – Data cleaning, analysis, and dashboard design.
+
 • 📊 Pivot Tables & Charts – Visual analysis and insights.
+
 • 🎛️ Slicers – Interactive filtering and drill-down exploration.
 
 
