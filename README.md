@@ -12,6 +12,7 @@ A dynamic Excel dashboard showcasing global student migration trends.Highlights 
 3.Tech Stack
 
 Technologies and features used to build the dashboard:
+
 • 💻 Excel – Data cleaning, analysis, and dashboard design.
 
 • 📊 Pivot Tables & Charts – Visual analysis and insights.
