@@ -39,13 +39,10 @@ Business Problem — Key Questions:
 
 • How do graduate salaries differ across fields?
 
-• What proportion of students receive scholarships?
 
-• What are the top motivators for enrollment (jobs, scholarships, ranking, stability)?
-
-• How evenly are students distributed between placed and not placed?
 
 Goal of the Dashboard:
+
 
 • 📊 Build an interactive dashboard that provides a clear view of:
 
