@@ -1,4 +1,4 @@
- # Global Academic Migration - Interactive Dashboard Creation using MS Excel
+ # Global Academic Student Migration - Interactive Dashboard Creation using MS Excel
 
 1.  ### Global Academic Migration Dashboard
    
