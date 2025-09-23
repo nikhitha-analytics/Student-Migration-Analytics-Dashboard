@@ -41,14 +41,14 @@ Business Problem — Key Questions:
 
 
 
-Goal of the Dashboard:
+🎯 Goal of the Dashboard:
 
 
 To analyze and visualize global student migration trends, helping universities, policymakers, and education consultants understand the flow of students across countries, identify popular destinations, and make data-driven decisions for academic planning and international collaboration
 
 
 
- Walkthrough of Key Visuals:
+ 📊 Walkthrough of Key Visuals:
  
 
 • Top Student Destination Country — KPI Card: Highlights UAE as the leading destination.
@@ -74,7 +74,7 @@ To analyze and visualize global student migration trends, helping universities, 
 • Interactive Filters — Slicers: Allow exploration by country and field of study.
 
 
- Business Impact & Insights:
+ 💡 Business Impact & Insights:
  
 
  • For Students:
